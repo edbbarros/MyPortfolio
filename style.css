@@ -15,8 +15,9 @@ body {
   }
 
   #linha-horizontal{
-      width: 800px;
-      border: 1px solid #2CDACF;
-      margin-top: -1.5%;
-      margin-left: 25%;
+      width: 50vw;
+      border: 1px solid #2CDACF;  
+      margin-left:15em;
+      margin-top: -1.8em;
+
   }
