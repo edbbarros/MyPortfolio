@@ -1,23 +1,31 @@
 body {
     background-color: #2A3035;
+  
   }
-
+nav{
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
   #icon-linkedin{
     margin-left: 5%;
-    height: 50px;
-    width: 60px;
+    height: 40px;
+    width: 40px;
   }
 
   #icon-github{
     margin-left: 1%;
-    height: 50px;
-    width: 60px;
+    height: 40px;
+    width: 40px;
   }
-
+  #icon-menu{
+    height: 40px;
+    width: 40px;
+  }
+  
   #linha-horizontal{
-      width: 50vw;
-      border: 1px solid #2CDACF;  
-      margin-left:15em;
-      margin-top: -1.8em;
+    width:50%;
+    border: 1px solid #2CDACF;  
+    
 
   }
