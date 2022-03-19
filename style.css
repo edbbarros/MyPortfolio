@@ -1,5 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@charset "UTF-8";
+
 body {
     background-color: #2A3035;
+    color: #E5E5E5;
+    font-family: 'Roboto', sans-serif;
+    
   
   }
 nav{
@@ -26,6 +32,15 @@ nav{
   #linha-horizontal{
     width:50%;
     border: 1px solid #2CDACF;  
-    
 
   }
+
+  #container{
+    display: flex;
+    justify-content: space-around;
+   
+  }
+
+  #texto_1{
+    font-size: 40pt;
+}
